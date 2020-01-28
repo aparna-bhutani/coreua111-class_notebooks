@@ -1,4 +1,4 @@
-.ipynb_checkpoints/
+# lesson01/
 lesson02/
 lesson03/
 lesson04/
@@ -25,6 +25,7 @@ lesson23/
 lesson24/
 lesson25/
 ignore/
+*.pdf
 *.tex
 *-notes.ipynb
-*.pdf
+.ipynb_checkpoints/
